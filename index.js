@@ -1,2 +1,7 @@
- // this is my first javascript code
- console.log('Hello, World! This message was added by JavaScript.');
+ let name='santhosh';
+ console.log(name);
+ 
+ let intrestRate=0.3;
+ intrestRate=1;
+ console.log(intrestRate);
+
