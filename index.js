@@ -1,7 +1,4 @@
- let name='santhosh';
- console.log(name);
- 
- let intrestRate=0.3;
- intrestRate=1;
+const name ='santhosh'
+const intrestRate=0.3;
  console.log(intrestRate);
 
